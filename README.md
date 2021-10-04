@@ -1,4 +1,12 @@
 # config_files
+
 Arquivos de configuração.
-Todos os arquivos de configuração foram criados e testados no Ubuntu 21.04
-o arquivos de configuração do firewall tem como base um servidor web com apenas uma interface de rede.
+
+###.vimrc
+Arquivo contendo configurações para facilitar a utilização do vim no dia a dia.
+
+###.zshrc
+Arquivo de configuração do ZSH utilizado no Kali.
+
+###firewall.sh
+Arquivo para iniciar a proteção básica em um servidor web interno ou externo, tem como base um servidor contendo apenas uma interface de rede.
