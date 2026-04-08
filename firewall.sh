@@ -1,9 +1,9 @@
 #!/bin/bash
 #-----------------DCUMENTACAO---------------
 # Autor         : Rafael Canalli
-# Contato       : rafael.canalli@underprotection.com.br
+# Contato       : rafael@canalli.net.br
 # Data          : 20/09/2021
-# Uso           : Regras de exempro para Firewall para servidor web
+# Uso           : Regras de exemplo para Firewall para servidor web
 # Requisito     : Conter o IPTABLES e desativar o Firewalld da redhat
 # Atualizcoes   :
 # Versao        : 1.0
