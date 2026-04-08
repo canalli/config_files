@@ -12,7 +12,7 @@ set shiftwidth=2              " Quantidade de espaços da auto-indentação
 "set guioptions-=T             " Deixa a GUI sem a toolbar
 set autochdir                 " Vai pro diretório do arquivo aberto
 set cursorline                " Mostra linha atual mais clara
-set cursorcolumn              " Mostra coluna 
+"set cursorcolumn              " Mostra coluna 
 set ai                        " ? 
 set hlsearch                  " Termo procurado em destaque
 set pumheight=15              " Máximo de palavras no popup de autocomplete
